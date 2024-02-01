@@ -49,7 +49,7 @@ The dataset is ready for training, so we create a naive classifier using scikit-
 ## ➲ Installation
 1. Clone the repo
    ```sh
-   git clone https://github.com/omaarelsherif/Email-Spam-Detection-Using-Machine-Learning.git
+   https://github.com/ANJani9web/email_Spam_Detection.git
    ```
 2. Open 'main.ipynb' in Google Colab or VScode and enjoy
 
